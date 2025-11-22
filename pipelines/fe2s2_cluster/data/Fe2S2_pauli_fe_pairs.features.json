@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id": 0, "type": "fe"},
+    {"id": 1, "type": "fe"},
+    {"id": 2, "type": "fe"},
+    {"id": 3, "type": "fe"},
+    {"id": 4, "type": "fe"},
+    {"id": 5, "type": "fe"},
+    {"id": 6, "type": "fe"},
+    {"id": 7, "type": "fe"},
+    {"id": 8, "type": "fe"},
+    {"id": 9, "type": "fe"}
+  ]
+}
+

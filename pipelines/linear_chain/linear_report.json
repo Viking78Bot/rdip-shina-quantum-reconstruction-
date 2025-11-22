@@ -1,0 +1,9 @@
+{
+  "mae_energy": 1.7208456881689926e-15,
+  "rmse_energy": 2.0621886034204413e-15,
+  "mae_couplings": 5.612794180049402e-16,
+  "rmse_couplings": 6.985000018454544e-16,
+  "samples": 256,
+  "chain_length": 10,
+  "elapsed_s": 0.012376546859741211
+}

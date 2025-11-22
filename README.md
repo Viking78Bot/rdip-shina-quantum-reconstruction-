@@ -1,10 +1,11 @@
 # RDIP + Shina Quantum Reconstruction
 
-Пакуем рабочие пайплайны и документацию по RD-IP + Shina.
+Reproducible pipelines and documentation for the RD-IP + Shina Fe₂S₂ study.
 
-- `pipelines/` – четыре пайплайна (linear chain, Zeise, Fe₂S₂ dm₂, 1D lattice)
-  вместе с данными, чекпоинтами и README.
-- `docs/rdip_shina_paper.tex` и PDF – статья с описанием стенда.
+- `pipelines/` bundles four ready-to-run projects (linear chain, Zeise complex,
+  Fe₂S₂ dm₂ training/inference, and a 1D lattice demo) with data, checkpoints,
+  and per-folder README instructions.
+- `docs/rdip_shina_paper.pdf` captures the write-up that accompanies the code.
 
-Каждый подпроект запускается через `python run_pipeline.py` внутри своей
-директории; подробности и зависимости перечислены в их README.
+Each pipeline is executed via `python run_pipeline.py` inside its directory;
+required dependencies and runtime notes live in the local README files.
